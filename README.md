@@ -1,5 +1,5 @@
 
-## Hello World! Sou Vinicius, atualmente tenho 19 anos.
+## Vinicius Pinheiro, game developer
 
 - 💻 Estou estudando para ser um Full-Stack Developer
 - 💠 Atualmente estou aprendendo as tecnologias essenciais (HTML, CSS, JavaScript)
